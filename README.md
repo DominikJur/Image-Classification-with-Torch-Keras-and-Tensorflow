@@ -1,5 +1,5 @@
-# Image Classification with PyTorch
+# Image Classification with PyTorch and Tensorflow
 
 **Overview**
 
-This project aims to classify images into different categories using a PyTorch-based convolutional neural network (CNN).
+This project aims to classify images into different categories using convolutional neural networks (CNNs).

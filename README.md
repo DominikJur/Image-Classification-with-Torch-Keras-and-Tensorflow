@@ -1,4 +1,4 @@
-# Image Classification with PyTorch and Tensorflow
+# Computer Vision with PyTorch
 
 **Overview**
 
